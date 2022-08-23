@@ -3,12 +3,12 @@
 <h2> Objetivo </h2>
 El objetivo de este repositorio es recopilar **recursos gratuitos** para poder aprender sobre distintos lenguajes/herramientas utilizados para trabajar en el área de datos
 
+* [SQL](#-sql-)
+* [Power BI](#-power-bi-)
+* [Python](#-python-)
+* [Machine Learning](#-machine-learning-)
 
-
-* <h2> SQL</h2>
-* b
-
-<h2> SQL</h2>
+<h2> SQL </h2>
 
 <h2> Power BI </h2>
 
