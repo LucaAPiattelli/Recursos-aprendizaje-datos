@@ -51,6 +51,3 @@ El objetivo de este repositorio es recopilar RECURSOS GRATUITOS para poder apren
 <h2> Extras </h2>
 
 <h3> C# </h3>
-
-<h3> C# </h3>
-
