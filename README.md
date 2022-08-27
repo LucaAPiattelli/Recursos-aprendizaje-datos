@@ -12,6 +12,9 @@ El objetivo de este repositorio es recopilar RECURSOS GRATUITOS para poder apren
 * [General](#-general-)
 
 <h2> SQL </h2>
+
+>
+
 * [Página web interactiva para comenzar a aprender SQL desde 0](https://sqlbolt.com/)
 * [Página web interactiva con casos prácticos para comenzar a aprender](https://selectstarsql.com/)
 * [Página web interactiva con explicaciones prácticas](https://sqlzoo.net/wiki/SQL_Tutorial)
