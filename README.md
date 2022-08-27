@@ -34,10 +34,23 @@ El objetivo de este repositorio es recopilar RECURSOS GRATUITOS para poder apren
 * [Northwind (fuente oData)](https://services.odata.org/V3/Northwind/Northwind.svc/)
 * [Sakila (MySQL)](https://dev.mysql.com/doc/sakila/en/sakila-installation.html)
 
+<h2> SSIS </h2>
+
+<h2> Azure </h2>
+
 <h2> Power BI </h2>
 
 <h2> Python </h2>
 
+<h2> R </h2>
+
 <h2> Machine Learning </h2>
 
 <h2> General </h2>
+
+<h2> Extras </h2>
+
+<h3> C# </h3>
+
+<h3> C# </h3>
+
